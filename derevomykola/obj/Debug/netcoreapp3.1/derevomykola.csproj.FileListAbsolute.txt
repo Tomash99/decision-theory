@@ -1,0 +1,13 @@
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.exe
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.deps.json
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.runtimeconfig.json
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.runtimeconfig.dev.json
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.dll
+C:\Users\Latitude\source\repos\derevomykola\bin\Debug\netcoreapp3.1\derevomykola.pdb
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.csprojAssemblyReference.cache
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.dll
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.pdb
+C:\Users\Latitude\source\repos\derevomykola\obj\Debug\netcoreapp3.1\derevomykola.genruntimeconfig.cache
